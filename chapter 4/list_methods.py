@@ -1,0 +1,15 @@
+Friends =["Apple","Grapes",6,68.90,"soumili","sarthak"]
+print(Friends[1])
+Friends.append("mithu")
+print(Friends)
+l1 = [1,78,76,23,21,67]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.insert(56,90)
+print(l1)
+l1.pop(4)
+print(l1)
+l1.remove(55)
+print(l1)
