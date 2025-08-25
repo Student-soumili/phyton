@@ -5,6 +5,6 @@ if(a>=18):
     print("good for you")
 
 else:
-     print("you are the below of your age")
-print("End program")     
-    
+    print("you are below of your age")
+
+print("Thank you")
