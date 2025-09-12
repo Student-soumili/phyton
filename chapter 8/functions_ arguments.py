@@ -4,6 +4,7 @@ def goodday(name):
     goodday("soumili")
     goodday("sarthak")
     goodday("meoww")
+    
 
 // function with multiple arguments
     def goodday(name, ending):
